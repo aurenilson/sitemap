@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /redefinirsenha 
+Disallow: /validatemail 
+Disallow: /meuspedidos 
