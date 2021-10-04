@@ -1,17 +1,22 @@
 {
-  "name": "sitemap",
-  "version": "1.0.0",
-  "description": "testes",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "aurenilson",
-  "license": "MIT",
-  "keywords": [
-    "testes"
-  ],
-  "dependencies": {
-    "axios": "^0.22.0"
-  }
+    "name": "sitemap-nilson",
+    "version": "1.0.0",
+    "description": "Automatizar tarefas do front-end para gerir automaticamente o sitemap.xml e o robots.txt",
+    "main": "index.js",
+    "scripts": {
+        "server": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "aurenilson",
+    "license": "MIT",
+    "keywords": [
+        "sitemap",
+        "robots",
+        "vue",
+        "angular",
+        "react"
+    ],
+    "dependencies": {
+        "axios": "^0.22.0"
+    }
 }
