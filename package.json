@@ -1,5 +1,5 @@
 {
-    "name": "sitemap-nilson",
+    "name": "nilson-sitemap-robots-vue",
     "version": "1.0.0",
     "description": "Automatizar tarefas do front-end para gerir automaticamente o sitemap.xml e o robots.txt",
     "main": "index.js",
