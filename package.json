@@ -14,7 +14,8 @@
         "robots",
         "vue",
         "angular",
-        "react"
+        "react",
+        "node"
     ],
     "dependencies": {
         "axios": "^0.22.0"
